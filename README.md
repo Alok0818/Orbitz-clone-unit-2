@@ -24,7 +24,7 @@
       Expedia Group. It is headquartered in the Citigroup Center, Chicago,
       Illinois.
     </p>
-    <h3>Live Site(jovial-meitner-7c3368.netlify.app/)</h3>
+    <h3>Live Site(https://jovial-meitner-7c3368.netlify.app/)</h3>
     <!-- <h1>Video Link:-</h1>
     <h3>
       we have shared a demo presentation of this project "Orbitz-clone".
