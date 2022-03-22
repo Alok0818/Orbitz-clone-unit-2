@@ -8,7 +8,7 @@
       and we also accordingly implemented all that teachings in our project to
       look it at its best.
     </p>
-![download](https://user-images.githubusercontent.com/94324872/159520533-5ba8c32d-1dd8-44de-ba7d-bfcfe67d9949.png)
+https://user-images.githubusercontent.com/94324872/159520533-5ba8c32d-1dd8-44de-ba7d-bfcfe67d9949.png
 
  
  
