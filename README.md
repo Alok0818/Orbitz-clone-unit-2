@@ -8,9 +8,10 @@
       and we also accordingly implemented all that teachings in our project to
       look it at its best.
     </p>
-https://user-images.githubusercontent.com/94324872/159520533-5ba8c32d-1dd8-44de-ba7d-bfcfe67d9949.png
 
- 
+
+ ![download](https://user-images.githubusercontent.com/94324872/159521040-2f779dc3-6daf-4411-a33f-9bbda31b5d17.png)
+
  
    <h1>About Orbitz</h1>
     <p>
