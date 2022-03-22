@@ -8,13 +8,11 @@
       and we also accordingly implemented all that teachings in our project to
       look it at its best.
     </p>
+![download](https://user-images.githubusercontent.com/94324872/159520533-5ba8c32d-1dd8-44de-ba7d-bfcfe67d9949.png)
 
-  <img
-      src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
-      alt="Orbitz"
-    />
-    <br />
-    <h1>About Orbitz</h1>
+ 
+ 
+   <h1>About Orbitz</h1>
     <p>
       Earn free travel rewards with Orbitz. Fast booking & free cancellations.
       Reserve now, pay later!
