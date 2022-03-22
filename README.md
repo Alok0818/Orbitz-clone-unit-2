@@ -61,15 +61,10 @@
     </ul>
 
    <h1>Instructions to Run the Code</h1>
-    <ul>
-      <li>
-        Clone my repository
-        https://github.com/Alok0818/Overstock-front-End-clone.git
-      </li>
-      <li>Open that code in your VS code index.html</li>
-      <li>Open the index.html on Live server</li>
-      <li>
-        Then you can Navigate through other pages from Landing page like
-        signin.html, cart.html, etc.
-      </li>
-    </ul>
+    
+       1. Clone my repository https://github.com/Alok0818/Orbitz-clone-unit-2.git
+     2. Open that code in your VS code index.html.
+      3. Open the index.html on Live server.
+       4. Then you can Navigate through other pages from Landing page like
+       5. signin.html, cart.html, etc.
+     
