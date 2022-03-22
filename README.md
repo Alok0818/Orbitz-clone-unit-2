@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    # Orbitz_Website_Clone
+ # Orbitz_Website_Clone
 
-    <p>
+<p>
       This is clone of Orbitz.com, where we have used HTML, CSS and Javascript
       to acheive this. In this project we have tried to clone the “Orbitz”
       website. We had build up all our efforts to do our best in this project.
@@ -18,7 +9,7 @@
       look it at its best.
     </p>
 
-    <img
+  <img
       src="https://user-images.githubusercontent.com/94324872/159493368-b373246f-9194-4524-8995-999f29998741.png"
       alt="Orbitz"
     />
@@ -45,7 +36,7 @@
     <h1>Snapshots</h1>
    
 
-    <h1>Technology We Used</h1>
+   <h1>Technology We Used</h1>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
@@ -70,7 +61,7 @@
       <li>All the data is stored in the localStorage of the User.</li>
     </ul>
 
-    <h1>Instructions to Run the Code</h1>
+   <h1>Instructions to Run the Code</h1>
     <ul>
       <li>
         Clone my repository
@@ -83,5 +74,3 @@
         signin.html, cart.html, etc.
       </li>
     </ul>
-  </body>
-</html>
